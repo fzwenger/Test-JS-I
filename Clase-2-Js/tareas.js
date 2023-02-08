@@ -9,13 +9,13 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 // Tip: borrar el dato 'null' antes de poner el dato tipo string.
-const nuevaString = null;
+const nuevaString = "Hola Mundo";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 8;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = True;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === null;
