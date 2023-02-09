@@ -216,7 +216,14 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
   //Tu código:
-
+  let contador=0
+  do {
+    contador +=1
+    numero +=5
+  }
+  while (contador<8) {
+  return numero
+  }
 }
 
 // No modificar nada debajo de esta línea, sino no correrán los test.
